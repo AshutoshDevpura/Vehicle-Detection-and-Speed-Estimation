@@ -5,6 +5,7 @@
 # --- Mail           : ashutoshdevpura@gmail.com
 # 
 # ----------------------------------------------
+"""
 from utils.image_utils import image_saver
 
 is_vehicle_detected = [0]
@@ -63,3 +64,5 @@ def predict_speed(
             current_frame_number_list.insert(0, current_frame_number)
             bottom_position_of_detected_vehicle.insert(0, bottom)
     return (direction, speed, is_vehicle_detected, update_csv)
+    
+    """
