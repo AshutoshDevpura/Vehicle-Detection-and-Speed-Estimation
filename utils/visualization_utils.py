@@ -1,7 +1,7 @@
 #----------------------------------------------
-#--- Author         : Ahmet Ozlu
-#--- Mail           : ahmetozlu93@gmail.com
-#--- Date           : 27th January 2018
+#--- Author         : Ashutosh Devpura
+#--- Mail           : ashutoshdevpura@gmail.com
+
 #----------------------------------------------
 
 """A set of functions that are used for visualization.
