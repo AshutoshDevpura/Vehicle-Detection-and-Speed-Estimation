@@ -16,6 +16,11 @@ git clone https://github.com/AshutoshDevpura/Vehicle-Detection-and-Speed-Estimat
 
 2. ![pip3](https://img.shields.io/badge/pip-v21.0+-blue.svg)
 
+### Architecture diagram
+
+![Fig 1](https://user-images.githubusercontent.com/46817661/132096238-2f2e71db-4d22-4411-9743-fad49910f95c.png)
+
+
 ### Installation
 
 1. cd Vehicle-Detection-and-Speed-Estimation.
