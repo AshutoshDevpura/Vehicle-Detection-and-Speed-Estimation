@@ -45,14 +45,35 @@ Single Shot Multi-Box Detector has remarkable performance and precisionfor  obje
   ```
   pip3 install -r requirements.txt
   ```
-5. Run vehicle_detection_main.py
+5. Run the program
   ```
   python3 vehicle_detection_main.py 
+  ```
+  ```
+ python3 speed_estimation_dl.py
   ```
     
 ### Output 
 
+
 ![output](https://user-images.githubusercontent.com/46817661/127166371-406d9414-84c0-4dc7-af16-09d65c5133bf.png)
+
+```
+$ python speed_estimation_dl.py --conf config/config.json
+[INFO] loading model...
+[INFO] warming  up camera...
+[INFO] Speed of the vehicle that just passed is: 26.08 MPH
+[INFO] Speed of the vehicle that just passed is: 22.26 MPH
+[INFO] Speed of the vehicle that just passed is: 17.91 MPH
+[INFO] Speed of the vehicle that just passed is: 15.73 MPH
+[INFO] Speed of the vehicle that just passed is: 41.39 MPH
+[INFO] Speed of the vehicle that just passed is: 35.79 MPH
+[INFO] Speed of the vehicle that just passed is: 24.10 MPH
+[INFO] Speed of the vehicle that just passed is: 20.46 MPH
+[INFO] Speed of the vehicle that just passed is: 16.02 MPH
+
+```
+
 
 
  ## Conference Paper
