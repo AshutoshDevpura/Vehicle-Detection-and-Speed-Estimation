@@ -20,6 +20,15 @@ git clone https://github.com/AshutoshDevpura/Vehicle-Detection-and-Speed-Estimat
 
 ![Fig 1](https://user-images.githubusercontent.com/46817661/132096238-2f2e71db-4d22-4411-9743-fad49910f95c.png)
 
+### Object Detection Algorithm
+
+Single Shot Multi-Box Detector has remarkable performance and precisionfor  object  detection  tasks,  scoring  an  average  74  %  mean  Average  Precision(mAP) at 59 frames per second on the standard COCO dataset.
+
+![MobileNet SSD](https://user-images.githubusercontent.com/46817661/132956189-53a61b91-909f-45e5-9829-9f74d57b135b.png)
+
+
+
+
 
 ### Installation
 
