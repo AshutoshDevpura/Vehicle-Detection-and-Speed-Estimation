@@ -76,5 +76,5 @@ $ python speed_estimation_dl.py --conf config/config.json
 
 
 
- ## Conference Paper
- Link Upcomming Soon .....
+## Conference Paper
+https://www.springer.com/gp/book/9789811671661
